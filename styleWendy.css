@@ -1,0 +1,78 @@
+.myblock { 
+    background-color: #A2DFFB; 
+    display: flex;
+}
+
+.myblock img {
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    width: 200px;
+}
+
+.myblock .content { 
+    display: flex;
+    flex-direction: column;
+    margin: 15px; 
+}
+
+.myblock h2 {
+    font-family: Fantasy;
+    font-weight: normal;
+    color: #1E6176;
+}
+
+.myblock p {
+    font-family: Fantasy;
+    color: #547CF8;
+    font-size: 10px;
+    line-height: 1.5; 
+}
+
+.foot{
+    background-color: #A2DFFB;
+    display: flex;
+}
+.foot img{
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: 10px;
+    width: 200px;
+}
+.foot p{
+    font-family: Fantasy;
+    color: #1E6176;
+    margin: 50px;
+}
+.foot .foot1{
+    font-family: Fantasy;
+    color: #1E6176;
+    text-align: right;
+    margin: 50px;
+}
+
+.myblock1{
+    display: flex;
+    background-color: #ADE0F0;
+}
+.myblock1 img{
+    width: 400px;
+    border: 5px white solid;
+    border-radius: 7px;
+}
+.myblock1 .content1{
+    flex-direction: column;
+    margin: 15px;
+}
+.myblock1 h2 {
+    font-family: Fantasy;
+    font-weight: normal;
+    color: #1E6176;
+}
+
+.myblock1 p {
+    font-family: Fantasy;
+    color: #547CF8;
+    font-size: 10px;
+    line-height: 1.5; 
+}
